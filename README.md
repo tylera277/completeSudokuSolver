@@ -1,4 +1,11 @@
 # completeSudokuSolver
+
+#Update 11/7/2021:
+I have placed in the backTracking folder an updated sudoku puzzle solver that required ~100 lines of code and runs faster than the previous version I wrote.
+
+<img width="532" alt="terminalOutputSudoku" src="https://user-images.githubusercontent.com/37377528/140661800-8ffe478c-46f0-48db-9ce5-3c13bedf55ae.png">
+
+
 A program which can solve any solvable sudoku puzzle within a few minutes(so far 2-3 minutes max).
 
 This program takes in an unsolved sudoku puzzle and outputs the solved one.
